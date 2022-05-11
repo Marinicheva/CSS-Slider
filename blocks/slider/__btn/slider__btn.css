@@ -1,0 +1,15 @@
+.slider__btn {
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 10px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    cursor: pointer;
+    opacity: .4;
+    transition: opacity .8s;
+}
+
+.slider__btn:hover {
+    opacity: .8;
+}

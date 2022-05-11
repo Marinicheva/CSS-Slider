@@ -1,0 +1,19 @@
+.slider__main-caption {
+    transition: all 1s;
+}
+
+#radio-1:checked .slider__captions {
+    margin-left: 0;
+}
+
+#radio-2:checked .slider__captions {
+    margin-left: -25%;
+}
+
+#radio-3:checked .slider__captions {
+    margin-left: -50%;
+}
+
+#radio-4:checked .slider__captions {
+    margin-left: -75%;
+}

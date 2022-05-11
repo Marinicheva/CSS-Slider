@@ -1,0 +1,10 @@
+.slider__nav {
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    z-index: 10;
+}
