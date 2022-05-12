@@ -6,7 +6,5 @@
 @import url(../blocks/slider/__item/slider__item.css);
 @import url(../blocks/slider/__nav/slider__nav.css);
 @import url(../blocks/slider/__btn/slider__btn.css);
-@import url(../blocks/slider/__captions/slider__captions.css);
-@import url(../blocks/slider/__caption/slider__caption.css);
 @import url(../blocks/slider/__main-slide/slider__main-slide.css);
 @import url(../blocks/slider/__main-caption/slider__main-caption.css);
